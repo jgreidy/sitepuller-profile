@@ -11,5 +11,5 @@ projects[sitepuller_profile][download][url] = "https://github.com/jgreidy/sitepu
 
 projects[sitepuller][type] = "module"
 projects[sitepuller][download][type] = "git"
-projects[sitepuller][download][branch] = "develop"
+projects[sitepuller][download][branch] = "master"
 projects[sitepuller][download][url] = "https://github.com/jgreidy/sitepuller.git"
