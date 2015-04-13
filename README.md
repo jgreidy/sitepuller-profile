@@ -1,6 +1,10 @@
 # sitepuller-profile
 Drupal profile for installing sitepuller
 
+/path/to/site/root on Mac OS
+  for DevDesktop: /Users/my-user/devdesktop/my-site
+  for MAMP: /Applications/MAMP/htdocs/my-site
+
 Create a sitepuller site:
 - cd ~
 - git clone git@github.com:jgreidy/sitepuller-profile.git sitepuller_profile
