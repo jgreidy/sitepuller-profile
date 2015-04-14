@@ -50,6 +50,8 @@ dependencies[] = rules
 dependencies[] = rules_admin
 ; Utilities
 dependencies[] = sitepuller_tools
+; Views
+dependencies[] = views
 ; Features
 dependencies[] = features
 dependencies[] = sitepuller
