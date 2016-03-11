@@ -15,4 +15,5 @@ Create a sitepuller site:
 - cd /path/to/site/root
 - drush composer-manager update
   - The composer.json file is missing. Would you like to re-build it? (y/n): y
-
+- Configure sitepuller_tools module
+  - see the instructions in README.md git@github.com:jgreidy/sitepuller-tools.git
